@@ -1,0 +1,2 @@
+# cdn
+public static file
